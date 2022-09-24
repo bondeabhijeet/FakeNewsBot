@@ -1,5 +1,7 @@
 # FakeNewsBot
 
+[![FakeNewsBot Banner](https://raw.githubusercontent.com/bondeabhijeet/FakeNewsBot/main/FakeNewsBot.png)](https://github.com/bondeabhijeet/FakeNewsBot)
+
 # Want to deploy this bot yourself?
 - Recommended operating system<br>
    ```Linux distribution```
