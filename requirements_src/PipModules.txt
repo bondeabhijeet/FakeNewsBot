@@ -1,0 +1,8 @@
+requests
+numpy
+pandas
+scikit-learn
+regex
+nltk
+python-telegram-bot
+lxml

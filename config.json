@@ -1,0 +1,9 @@
+{
+    "API_KEY" : "Insert_your_bot_API_key_here",
+    "COMMANDS" : {
+        "Help" : "help",
+        "News" : "news"
+    },
+    "Deploy" : "0"
+    
+}
