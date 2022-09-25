@@ -14,8 +14,10 @@
   ```
   cd FakeNewsBot
   ```
-- Download the dataset from this link 
-https://drive.google.com/file/d/1hns-QpxFzxdKO6SVmm2oHG3y-Aruck20/view?usp=sharing
+- Download the dataset from the link given below
+<br> </br>
+[![Dataset Banner](https://raw.githubusercontent.com/bondeabhijeet/FakeNewsBot/main/download.png)](https://drive.google.com/file/d/1hns-QpxFzxdKO6SVmm2oHG3y-Aruck20/view?usp=sharing)
+
 
 - Paste the file (train.csv) in the following path
   ```
@@ -48,4 +50,6 @@ https://drive.google.com/file/d/1hns-QpxFzxdKO6SVmm2oHG3y-Aruck20/view?usp=shari
   ```
   python3 main.py
   ```
-- Download the report click this link https://github.com/bondeabhijeet/FakeNewsBot/raw/main/FAKE%20NEWS%20DETECTION%20REPORT.docx
+- Download the report from the link given below
+<br> </br>
+[![Dataset Banner](https://raw.githubusercontent.com/bondeabhijeet/FakeNewsBot/main/download.png)](https://github.com/bondeabhijeet/FakeNewsBot/raw/main/FAKE%20NEWS%20DETECTION%20REPORT.docx)
